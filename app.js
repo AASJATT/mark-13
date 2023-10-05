@@ -1,4 +1,8 @@
 function reverseStr(str){
     str.split('').reverse().join('')
 }
-  console.log(reverseStr("hello"));
+  
+function isPalindrome(str){
+    var reverse = reverseStr(str);
+    return str === reverse;
+}
