@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 2rem;
+    margin: 1rem;
+    margin-top: 5rem;
+}
+    
+input{
+    display: block;
+    padding: 1rem;
+    margin:auto;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    width:50%;
+    text-align: center;
+}
+ button{
+    display: block;
+    padding:0.5rem;
+    margin:auto;
+    margin-top: 1rem;
+    background-color: black;
+    color:white;
+    border:none;
+    border-radius: 0.5rem;}
+
+p{
+    
+    text-align: center;
+    font-weight: bold;
+    color:purple;
+}
+
+ 
